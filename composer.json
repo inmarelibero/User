@@ -32,7 +32,7 @@
 
         "doctrine/orm": "^2.4.8,<2.5",
         "sylius/resource": "dev-symfony_3_compatibility",
-        "sylius/storage": "^dev-symfony_3_compatibility",
+        "sylius/storage": "dev-symfony_3_compatibility",
         "symfony/security": "^3.0",
         "symfony/polyfill-mbstring": "~1.0"
     },
